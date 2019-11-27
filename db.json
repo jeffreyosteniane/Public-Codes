@@ -1,10 +1,13 @@
-[
-    {
-        "Code": "M",
-        "Text": "Male"
-    },
-    {
-        "Code": "F",
-        "Text": "Female"
-    }
-]
+{
+    "Genders" : [
+        {
+            "Code": "M",
+            "Text": "Male"
+        },
+        {
+            "Code": "F",
+            "Text": "Female"
+        }
+    ]
+}
+    
